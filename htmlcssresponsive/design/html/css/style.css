@@ -31,6 +31,24 @@
     top: 30px;
 }
 
+.milieu {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    padding: 15px;
+    margin-right: 400px;
+    
+}
+
+.h {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 5cm;
+}
+
 .div {
     display: flex;
     margin-left: 37px;
